@@ -1,0 +1,85 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "role": "all",
+      "patterns": [
+        "hi",
+        "hello",
+        "hey",
+        "good morning",
+        "good evening",
+        "what's up"
+      ],
+      "responses": [
+        "👋 Hi there! How can I assist you today?",
+        "Hello! Need help with your exams or notes?",
+        "Hey! I’m here to help you with your schedule or study material."
+      ]
+    },
+    {
+      "tag": "get_exam_schedule",
+      "role": "student",
+      "patterns": [
+        "When is my next exam?",
+        "Show my exam timetable",
+        "What is my next test?",
+        "Can you tell me my exam schedule?",
+        "Next exam details please"
+      ],
+      "responses": [
+        "📘 Your next exam is Database Systems on 2025-12-01 at 10:00 AM in Room 201.",
+        "🗓️ You have an upcoming exam on 2025-12-01 at 10 AM, subject: Database Systems."
+      ]
+    },
+    {
+      "tag": "get_notes",
+      "role": "student",
+      "patterns": [
+        "Give me notes for IoT",
+        "I need study material for DBMS",
+        "Show me AI notes",
+        "Help me prepare for exam",
+        "Provide notes for Internet of Things"
+      ],
+      "responses": [
+        "📝 Here are your notes for IoT: Sensors → Gateway → Cloud → Application.",
+        "📚 Check out DBMS Notes: Normalization and Relational Model concepts."
+      ]
+    },
+    {
+      "tag": "get_instructor_duties",
+      "role": "instructor",
+      "patterns": [
+        "What exams am I invigilating?",
+        "Show my invigilation duties",
+        "List my invigilation schedule",
+        "Am I invigilating any exam?"
+      ],
+      "responses": [
+        "👩‍🏫 You are invigilating AI on Dec 3 in Lab 4 and DBMS on Dec 5 in Room 202."
+      ]
+    },
+    {
+      "tag": "generate_timetable",
+      "role": "instructor",
+      "patterns": [
+        "Generate timetable for ECE department",
+        "Create exam schedule for IT",
+        "Run solver for my exams",
+        "Generate a new timetable"
+      ],
+      "responses": [
+        "✅ Timetable generation started successfully using OR-Tools Solver."
+      ]
+    },
+    {
+      "tag": "fallback",
+      "role": "all",
+      "patterns": [""],
+      "responses": [
+        "🤖 I didn’t understand that. Try asking about exams, notes, or timetable generation."
+      ]
+    }
+  ]
+}

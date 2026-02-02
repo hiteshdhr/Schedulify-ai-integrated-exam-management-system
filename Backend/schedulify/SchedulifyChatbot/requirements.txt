@@ -1,0 +1,25 @@
+# -------------------------------
+# Schedulify Backend Dependencies
+# -------------------------------
+
+# Flask framework for API endpoints
+Flask==3.0.2
+
+# For chatbot machine learning logic
+scikit-learn==1.5.2
+numpy==1.26.4
+
+# For text processing / NLP
+nltk==3.9.1
+
+# For handling JSON data and HTTP requests (optional)
+requests==2.32.3
+
+# For optimization solver (your exam scheduling)
+ortools==9.9.3963
+
+# For data storage / MongoDB connection (if used)
+pymongo==4.8.0
+
+# For cross-origin requests between frontend & backend
+flask-cors==4.0.1
