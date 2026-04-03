@@ -1,7 +1,7 @@
 # 📅🤖 Schedulify: AI-Integrated Academic Management Platform
 
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/hiteshdhr/Schedulify-ai-integrated-exam-management-system/actions)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](License.md)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](/CONTRIBUTING.md)
 
 **Schedulify** is an advanced, AI-driven platform designed to automate the complexities of academic scheduling, exam management, and student life. Powered by a robust **MERN stack** core plus specialized **Python microservices**, Schedulify manages automated exam timetabling, generates smart study schedules, parses academic PDFs, and offers role-based chatbot assistance.
