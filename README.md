@@ -161,7 +161,13 @@ Contributions are welcome!
 
 ## 📺 Demo
 
-> Add screenshots, GIFs, or a Loom link here to showcase Schedulify in action.
+><img width="687" height="353" alt="Screenshot 2026-04-03 204402" src="https://github.com/user-attachments/assets/5951d73b-e799-4a90-8f27-9232357259fb" />
+<img width="664" height="408" alt="Screenshot 2026-04-03 204555" src="https://github.com/user-attachments/assets/865748da-f291-43e6-97e7-766d21d5a4eb" />
+<img width="476" height="457" alt="Screenshot 2026-04-03 204531" src="https://github.com/user-attachments/assets/fa05a39c-bf57-4c3f-9f65-364c616ef076" />
+<img width="680" height="389" alt="Screenshot 2026-04-03 204454" src="https://github.com/user-attachments/assets/c1395adc-3f2b-4ddf-8d6e-c26a84ba30e9" />
+<img width="685" height="302" alt="Screenshot 2026-04-03 204438" src="https://github.com/user-attachments/assets/8d0003ae-3d92-469e-8097-c517036e7257" />
+<img width="685" height="385" alt="Screenshot 2026-04-03 204420" src="https://github.com/user-attachments/assets/8fde6895-3c6a-47a2-aa40-076404952515" />
+
 
 ---
 
